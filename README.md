@@ -251,3 +251,6 @@ Potential future improvements include:
 B.Tech Information Technology Graduate
 
 Skills: Python | SQL | Data Analysis | Power BI | Data Engineering
+
+LinkedIn: https://www.linkedin.com/in/saitejasri-kotla-13b673300/
+Portfolio: https://saitejasri1230.github.io/Saitejasri-portfolio/
